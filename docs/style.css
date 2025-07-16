@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: #111;
+  color: #eee;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#globeViz {
+  width: 100vw;
+  height: 90vh;
+  margin: 0 auto;
+}
