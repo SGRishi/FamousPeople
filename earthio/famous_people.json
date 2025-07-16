@@ -1,0 +1,26 @@
+{
+  "USA": {
+    "person": "Donald_Trump",
+    "views": 8223028,
+    "coords": [
+      37.0902,
+      -95.7129
+    ]
+  },
+  "France": {
+    "person": "Napoleon",
+    "views": 5808911,
+    "coords": [
+      46.2276,
+      2.2137
+    ]
+  },
+  "Japan": {
+    "person": "Hayao_Miyazaki",
+    "views": 1255506,
+    "coords": [
+      36.2048,
+      138.2529
+    ]
+  }
+}
